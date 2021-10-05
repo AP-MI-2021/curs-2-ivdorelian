@@ -14,4 +14,4 @@ print(f_good(x))
 print(f_good())
 
 lst = [1, 2, 3]
-print(for_unpacking(*lst))
+print(for_unpacking(*lst)) # for_unpacking(lst[0], lst[1], lst[2])
